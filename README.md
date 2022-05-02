@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PetitOui
+- 👋 Hi, I’m @UvaCmoi
 - 👀 I’m interested in code and design.
 - 🌱 I’m currently learning C language
-- 💞️ I’m also doing some graphic design under another name : @VisionOfVak on Twitter.
+- 💞️ I’m also doing some graphic design under another name : @Naskeig on Twitter.
 
 <!---
 PetitOui/PetitOui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
